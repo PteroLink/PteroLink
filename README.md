@@ -1,3 +1,7 @@
 ![Banner](PteroLink.png)
 
-#PteroLink
+# PteroLink!
+An easy to use URL shortener!
+
+### Setup
+- SOON
