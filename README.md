@@ -4,4 +4,4 @@
 An easy to use URL shortener!
 
 ### Setup
-- SOON
+- Coming SOON
